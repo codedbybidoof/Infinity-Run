@@ -75,3 +75,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 TextMesh Pro/
 Assets/TextMesh Pro/
+*.shader
